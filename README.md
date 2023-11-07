@@ -7,7 +7,7 @@ Online source that helps you navigate social media and how it works.
 
 ## Installation
 
-[Link:](https://donnyandre29.github.io/HORI-seo-N/)
+[Horiseon](https://donnyandre29.github.io/HORI-seo-N/)
 
 
 ## Screenshot
